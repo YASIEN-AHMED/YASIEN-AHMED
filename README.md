@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&background=14141400&vCenter=true&width=480&height=30&lines=Hi+there+👋,+I'm+Yasien;Backend+.NET+Developer;Angular+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFFFFF&background=14141400&vCenter=true&width=480&height=30&lines=Hi+there+👋,+I'm+Yasien;+Software+Engineering;+Computer+Science+and+Information+Technology+graduate;Backend+.NET+Developer;Angular+Frontend+Developer)](https://git.io/typing-svg)
 <span>&nbsp;&nbsp;</span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 
 <img src="assets/background1.png" alt="Yasien Ahmed - Developer Banner" width="100%" />
@@ -105,5 +105,6 @@ Explore my repositories to see my work and contributions in **.NET, Web Developm
 **Made with ❤️ by Eng. Yasien Ahmed Elkelany**
 
 ⭐ Star this repo if you find it helpful!
+
 
 </div>
