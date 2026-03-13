@@ -73,15 +73,6 @@ Explore my repositories to see my work and contributions in **.NET, Web Developm
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasienAhmed&show_icons=true&theme=tokyonight&hide=contribs,issues" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasienAhmed&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 👨‍💻 Author
 
 <div align="center">
